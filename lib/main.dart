@@ -41,7 +41,7 @@ class MyHomePage extends StatelessWidget {
                 child: Column(
                   children: [
                     const Text(
-                      'Feel the beat s',
+                      'Feel the beat',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 25,
